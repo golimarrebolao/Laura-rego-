@@ -14,15 +14,12 @@
 * **School AI Chatbot (Zapier)** — [https://schoolaichatbot.zapier.app/](https://schoolaichatbot.zapier.app/)
   Bot via Zapier — tenta e anota se funciona.
 
-* **Google lens** 
-  O google lens escaneia  imagens e textos e dando a resposta
 ---
 
 # ⚠️ Se nada abrir
 se nenhuma IA funcionar, dá pra usar proxy pra acessar Ias bloqueadas.
 
-
+* *You.com You.com)** — [https://you.com/?chatMode=default/](https://you.com/?chatMode=default/)
+  Uma ia que não se entitula ia na url, deve passsar pelo bloqueio — tenta e anota se funciona.
 
 ❓ Área dos Não Testados
-* **Brittanica**
-  Uma Enciclopedia que tem uma ia dentro.
