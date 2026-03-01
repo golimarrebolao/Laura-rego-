@@ -19,7 +19,7 @@
 # ⚠️ Se nada abrir
 se nenhuma IA funcionar, dá pra usar proxy pra acessar Ias bloqueadas.
 
-* **You.com** — [You ia/](https://you.com/?chatMode=default/)
+* **You.com** — [You ia](https://you.com/?chatMode=default/)
   Uma ia que não se entitula ia na url, deve passsar pelo bloqueio — tenta e anota se funciona.
 
 ❓ Área dos Não Testados
