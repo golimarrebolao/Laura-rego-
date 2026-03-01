@@ -14,6 +14,9 @@
 * **School AI Chatbot (Zapier)** — [https://schoolaichatbot.zapier.app/](https://schoolaichatbot.zapier.app/)
   Bot via Zapier — tenta e anota se funciona.
 
+  * **Sky net chat)** — [https://skynetchat.net//](https://skynetchat.net//)
+  Bot via Zapier — tenta e anota se funciona.
+
 ---
 
 # ⚠️ Se nada abrir
