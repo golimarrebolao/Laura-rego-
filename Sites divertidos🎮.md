@@ -38,3 +38,6 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 [Universal unblocker ](https://sites.google.com/view/universalunblocking/home?authuser=0)
 
 [macrolorblx ](https://macrolorblx.com/how-to-unblock-websites-in-school-2026/) 
+
+💡 **Guia jogos:** [sherek scape](https://vimeo.com/1196825871?share=copy&fl=sv&fe=ci)  (mas nem todos funcionam).
+
