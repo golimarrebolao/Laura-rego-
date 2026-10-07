@@ -58,6 +58,8 @@ educational.elianum.pl/ funciona so jogo
 homes.advantagehomeimprovements.com/ funciona so jogo
 
 science.lincolneducationschools.org/ funciona
+gta 5:
+https://web.archive.org/web/20261006055917/https://playgta5.com/
 
 
 ## ❓ Sites que passam pelo bloqueio da escola
