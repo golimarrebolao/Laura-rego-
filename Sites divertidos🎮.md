@@ -60,7 +60,8 @@ homes.advantagehomeimprovements.com/ funciona so jogo
 science.lincolneducationschools.org/ funciona
 gta 5:
 https://web.archive.org/web/20261006055917/https://playgta5.com/
-
+gta 5:
+https://wasmarcade.com/gta-5
 
 ## ❓ Sites que passam pelo bloqueio da escola
 [B central](https://sites.google.com/view/bypass-central/home)
