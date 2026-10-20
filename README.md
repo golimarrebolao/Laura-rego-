@@ -44,4 +44,3 @@ Este repositório é distribuído sob a licença **MIT**, permitindo uso livre *
 📩 **Contato**
 Caso tenha dúvidas ou sugestões de estudo, sinta-se à vontade para abrir uma *issue* ou enviar uma mensagem educativa.
 
-**Lembrando a porto é feia**
