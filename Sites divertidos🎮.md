@@ -5,8 +5,6 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 # 🎮 Links de Jogos e Diversão
 
 ## 🕹️ Jogos Online
-* [eagle craft ofline dowload 1] (https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_Offline_Signed.zip?utm_source=chatgpt.com)
-* [eagle craft ofline dowload 2]  (https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_WASM-GC_Offline.zip?utm_source=chatgpt.com)
 
 * [Drive U-7](https://sites.google.com/view/drive-u-7-home/home) → Vários jogos disponíveis.
 * [Classroom 6X](https://sites.google.com/view/classroom6x/home?authuser=0) → Biblioteca de jogos online.
@@ -73,4 +71,11 @@ https://wasmarcade.com/gta-5
 [macrolorblx ](https://macrolorblx.com/how-to-unblock-websites-in-school-2026/) 
 
 💡 **Guia jogos:** [sherek scape](https://vimeo.com/1196825871?share=copy&fl=sv&fe=ci)
+
+
+## Eaglercraft 1.8.8 — Downloads
+
+- [Eaglercraft Offline — JS ZIP](https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_Offline_Signed.zip)
+- [Eaglercraft Offline — WASM-GC ZIP](https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_WASM-GC_Offline.zip)
+
 
