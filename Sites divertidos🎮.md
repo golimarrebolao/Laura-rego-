@@ -5,6 +5,8 @@ Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
 # 🎮 Links de Jogos e Diversão
 
 ## 🕹️ Jogos Online
+* [Eagle craft ofline dowload 1 (https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_Offline_Signed.zip?utm_source=chatgpt.com)
+ * [Eagle craft ofline dowload 2 (https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_WASM-GC_Offline.zip?utm_source=chatgpt.com)
 
 * [Drive U-7](https://sites.google.com/view/drive-u-7-home/home) → Vários jogos disponíveis.
 * [Classroom 6X](https://sites.google.com/view/classroom6x/home?authuser=0) → Biblioteca de jogos online.
