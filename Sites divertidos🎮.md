@@ -44,6 +44,9 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [eminescusm.ro](https://tungtriple.eminescusm.ro/)
 - [grilli.cl](https://tungtriple.grilli.cl/)
 - [raps.net.au](https://tungtriple.raps.net.au/)
+- [ilovetungy.govt.hu](https://ilovetungy.govt.hu/)
+- [imsoootuff.govt.hu](https://imsoootuff.govt.hu/)
+- [ouushiitung.govt.hu](https://ouushiitung.govt.hu/)
 
 ## 📚 Studyhub
 
@@ -60,6 +63,31 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [grilli.cl](https://yum.grilli.cl/)
 - [raps.net.au](https://yum.raps.net.au/)
 - [webinfinite.com](https://yum.webinfinite.com/)
+
+## 🏎️ Light Speed
+
+- [67.sourcescs.com](https://67.sourcescs.com/)
+- [ohyeahh.sourcescs.com](https://ohyeahh.sourcescs.com/)
+- [allurahealthsolutions.com](https://ouushii.allurahealthsolutions.com/)
+- [baikabibai.com](https://ouushii.baikabibai.com/)
+- [rigaprecast.com.au](https://ouushii.rigaprecast.com.au/)
+- [tanenbaumchat.org](https://ouushii.tanenbaumchat.org/)
+- [zetago.ar](https://ouushii.zetago.ar/)
+- [dermatolog-cluj.ro](https://ouushii.dermatolog-cluj.ro/)
+- [dhirajpyakurel.com.np](https://ouushii.dhirajpyakurel.com.np/)
+- [hookextender.com](https://ouushii.hookextender.com/)
+- [jz-katagis.eu](https://ouushii.jz-katagis.eu/)
+- [nhhc.com.au](https://ouushii.nhhc.com.au/)
+- [offgamer.com.my](https://ouushii.offgamer.com.my/)
+- [onnemaa.ee](https://ouushii.onnemaa.ee/)
+- [sdao.me](https://ouushii.sdao.me/)
+- [serviciosit.com.ar](https://ouushii.serviciosit.com.ar/)
+- [solidaritysafaris.com](https://ouushii.solidaritysafaris.com/)
+- [mailinglistshop.com](https://ouushii.mailinglistshop.com/)
+- [sunrisefarmireland.org](https://ouushiii.sunrisefarmireland.org/)
+- [unbendingwill.ru](https://ouushii.unbendingwill.ru/)
+- [unkleho.com](https://ouushii.unkleho.com/)
+- [zephirtechnik.com](https://ouushii.zephirtechnik.com/)
 
 ---
 
