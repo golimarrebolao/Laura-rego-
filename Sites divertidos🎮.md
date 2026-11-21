@@ -31,22 +31,11 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - https://lunarnode.smartlearning.solutions/
 - https://astrocore.b-cdn.net/
 - https://exact.granular.com.au/
-- https://search.nirbika.com.np/
 - https://algebra.brendarosenfeld.com/
-- https://reciept.medicfamiliecraiova.ro/
-- https://educational.elianum.pl/
-- https://homes.advantagehomeimprovements.com/
 - https://science.lincolneducationschools.org/
 
 ## 🌐 TungTung
 
-- [casaskrater.cl](https://tungtriple.casaskrater.cl/)
-- [eminescusm.ro](https://tungtriple.eminescusm.ro/)
-- [grilli.cl](https://tungtriple.grilli.cl/)
-- [raps.net.au](https://tungtriple.raps.net.au/)
-- [ilovetungy.govt.hu](https://ilovetungy.govt.hu/)
-- [imsoootuff.govt.hu](https://imsoootuff.govt.hu/)
-- [ouushiitung.govt.hu](https://ouushiitung.govt.hu/)
 - [s3.amazonaws.com](https://s3.amazonaws.com/thinkbabyy/index.html)
 - [thinkbabyy.s3.amazonaws.com](https://thinkbabyy.s3.amazonaws.com/index.html)
 
@@ -73,8 +62,6 @@ Links adicionais para conferir; a disponibilidade pode variar:
 
 ## 🏎️ Light Speed
 
-- [67.sourcescs.com](https://67.sourcescs.com/)
-- [ohyeahh.sourcescs.com](https://ohyeahh.sourcescs.com/)
 - [allurahealthsolutions.com](https://ouushii.allurahealthsolutions.com/)
 - [baikabibai.com](https://ouushii.baikabibai.com/)
 - [rigaprecast.com.au](https://ouushii.rigaprecast.com.au/)
@@ -82,19 +69,8 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [zetago.ar](https://ouushii.zetago.ar/)
 - [dermatolog-cluj.ro](https://ouushii.dermatolog-cluj.ro/)
 - [dhirajpyakurel.com.np](https://ouushii.dhirajpyakurel.com.np/)
-- [hookextender.com](https://ouushii.hookextender.com/)
 - [jz-katagis.eu](https://ouushii.jz-katagis.eu/)
 - [nhhc.com.au](https://ouushii.nhhc.com.au/)
-- [offgamer.com.my](https://ouushii.offgamer.com.my/)
-- [onnemaa.ee](https://ouushii.onnemaa.ee/)
-- [sdao.me](https://ouushii.sdao.me/)
-- [serviciosit.com.ar](https://ouushii.serviciosit.com.ar/)
-- [solidaritysafaris.com](https://ouushii.solidaritysafaris.com/)
-- [mailinglistshop.com](https://ouushii.mailinglistshop.com/)
-- [sunrisefarmireland.org](https://ouushiii.sunrisefarmireland.org/)
-- [unbendingwill.ru](https://ouushii.unbendingwill.ru/)
-- [unkleho.com](https://ouushii.unkleho.com/)
-- [zephirtechnik.com](https://ouushii.zephirtechnik.com/)
 
 ## Sumi
 
