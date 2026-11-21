@@ -1,81 +1,43 @@
-Aqui está a versão mais organizada, limpa e bonita do que você me mandou:
+# 🎮 Jogos e diversão
+
+Uma coleção de jogos para navegador, experiências interativas e outros links.
+
+## 🕹️ Jogos online
+
+- [Drive U-7](https://sites.google.com/view/drive-u-7-home/home) — coleção de jogos.
+- [Classroom 6X](https://sites.google.com/view/classroom6x/home?authuser=0) — biblioteca de jogos online.
+- [Minecraft no navegador](https://v98.mcraft.fun/) — versão jogável pelo navegador.
+- [Minecraft — alternativa](https://prismarine-ismfgtmlq-zaro.vercel.app) — outra experiência de Minecraft online.
+- [Yandex Games](https://yandex.com/games/) — catálogo de jogos para navegador.
+
+## 🔊 Sons e memes
+
+- [Sound Buttons World](https://soundbuttonsworld.com/) — coleção de botões de áudio.
+- [Memes.casa](https://memes.casa/) — memes e conteúdos de humor.
+
+## 🧱 Eaglercraft 1.8.8
+
+- [Download offline — JS](https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_Offline_Signed.zip)
+- [Download offline — WASM-GC](https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_WASM-GC_Offline.zip)
+
+## 🗂️ Outros links
+
+Links adicionais para conferir; a disponibilidade pode variar:
+
+- https://storage.googleapis.com/lilicraftzone/index.html
+- https://storage.googleapis.com/luminacore/index.html
+- https://storage.googleapis.com/vertexspace/index.html
+- https://s3.amazonaws.com/luminacorehi/index.html
+- https://lunarnode.smartlearning.solutions/
+- https://astrocore.b-cdn.net/
+- https://exact.granular.com.au/
+- https://search.nirbika.com.np/
+- https://algebra.brendarosenfeld.com/
+- https://reciept.medicfamiliecraiova.ro/
+- https://educational.elianum.pl/
+- https://homes.advantagehomeimprovements.com/
+- https://science.lincolneducationschools.org/
 
 ---
 
-# 🎮 Links de Jogos e Diversão
-
-## 🕹️ Jogos Online
-
-* [Drive U-7](https://sites.google.com/view/drive-u-7-home/home) → Vários jogos disponíveis.
-* [Classroom 6X](https://sites.google.com/view/classroom6x/home?authuser=0) → Biblioteca de jogos online.
-* [Minecraft no Navegador](https://v98.mcraft.fun/) → Jogue direto no navegador (⚠️ pode travar bastante).
-* [Minecraft (versão alternativa)](https://prismarine-ismfgtmlq-zaro.vercel.app) → Outra opção de Minecraft online.
-
-💡 **Dica:** Se nenhum jogo funcionar, pesquise **Yandex Games** em algum proxy e jogue por lá (mas nem todos funcionam).
-
----
-
-## 🔊 Botões de Sons & Memes
-
-* [Sound Buttons World](https://soundbuttonsworld.com/) → Sons engraçados para trollar na sala.
-
-  * **Gemidão do WhatsApp:** pesquise `whatsapp22`.
-  * **Áudio estourado:** pesquise `Ai minha xereca`.
-* [Memes.casa](https://memes.casa/) → Vários memes BR, funciona igual ao Sound Buttons mas focado em brasileiros.
-
----
-
-## ❓ Área dos Não Testados
-
-
-
-storage.googleapis.com/lilicraftzone/index.html abre
-
-storage.googleapis.com/luminacore/index.html abre
-
-storage.googleapis.com/vertexspace/index.html abre
-
-s3.amazonaws.com/luminacorehi/index.html abre
-
-
-lunarnode.smartlearning.solutions/ funciona
-
-
-astrocore.b-cdn.net/ abre
-
-Bonus:
-exact.granular.com.au/ funciona 
-
-
-search.nirbika.com.np/ abre
-
-algebra.brendarosenfeld.com/ abre
-
-reciept.medicfamiliecraiova.ro/ abre
-
-educational.elianum.pl/ funciona so jogo
-
-homes.advantagehomeimprovements.com/ funciona so jogo
-
-science.lincolneducationschools.org/ funciona
-gta 5:
-https://web.archive.org/web/20261006055917/https://playgta5.com/
-gta 5:
-https://wasmarcade.com/gta-5
-
-## ❓ Sites que passam pelo bloqueio da escola
-[B central](https://sites.google.com/view/bypass-central/home)
-
-[Universal unblocker ](https://sites.google.com/view/universalunblocking/home?authuser=0)
-
-[macrolorblx ](https://macrolorblx.com/how-to-unblock-websites-in-school-2026/) 
-
-💡 **Guia jogos:** [sherek scape](https://vimeo.com/1196825871?share=copy&fl=sv&fe=ci)
-
-
-## Eaglercraft 1.8.8 — Downloads
-
-- [Eaglercraft Offline — JS ZIP](https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_Offline_Signed.zip)
-- [Eaglercraft Offline — WASM-GC ZIP](https://cdn.eaglercraft.ru/dl/1.8.8/EaglercraftX_1.8_u53_WASM-GC_Offline.zip)
-
-
+*Links externos podem mudar ou sair do ar. Confira cada página antes de utilizá-la.*
