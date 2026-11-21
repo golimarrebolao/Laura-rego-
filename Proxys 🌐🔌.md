@@ -37,4 +37,21 @@
 
 ## Area dos não testado
 
+TungTung
+https://tungtriple.casaskrater.cl/
+https://tungtriple.eminescusm.ro/
+https://tungtriple.grilli.cl/
+https://tungtriple.raps.net.au/
+Studyhub
+https://hub-with-study.casaskrater.cl/
+https://hub-with-study.eminescusm.ro/
+https://hub-with-study.grilli.cl/
+https://hub-with-study.raps.net.au/
+https://hub-with-study.webinfinite.com/
+Strawberri
+https://yum.casaskrater.cl/
+https://yum.eminescusm.ro/
+https://yum.grilli.cl/
+https://yum.raps.net.au/
+https://yum.webinfinite.com/
 
