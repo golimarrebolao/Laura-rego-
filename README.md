@@ -1,34 +1,71 @@
-# 📚 Laura-rego-
+<div align="center">
 
-<p align="center">
-  <strong>Uma coleção pessoal de recursos digitais</strong><br>
-  Links úteis, ferramentas online, jogos e pequenos scripts organizados em um só lugar.
+<img src="assets/banner.svg" alt="Laura-rego — coleção de recursos digitais" width="100%">
+
+<br>
+
+# ✨ Laura-rego
+
+**Uma coleção pessoal de recursos digitais, ferramentas e descobertas da web.**
+
+<p>
+  <img src="https://img.shields.io/badge/coleção-recursos%20digitais-6366f1?style=for-the-badge" alt="Coleção de recursos digitais">
+  <img src="https://img.shields.io/badge/organizado-por%20categorias-0ea5e9?style=for-the-badge" alt="Organizado por categorias">
 </p>
+
+</div>
 
 ---
 
-## 🧭 Navegação
+## 🧭 Explore o repositório
 
-| Seção | Conteúdo |
-|---|---|
-| 🤖 [Ferramentas de IA](./Melhores%20IAs%20%F0%9F%A4%96.md) | Serviços e assistentes online |
-| 🔎 [Pesquisa e privacidade](./Pesquisa%20e%20privacidade.md) | Buscadores e recursos voltados à privacidade |
-| 🎮 [Jogos e diversão](./Sites%20divertidos%F0%9F%8E%AE.md) | Jogos, experiências e sites interativos |
-| 🔗 [Scripts e atalhos](./Scripts%F0%9F%94%97.md) | Bookmarklets e exemplos de JavaScript |
-| 🔊 [Guia de sons](./Sound%20botton%20guia%F0%9F%93%8B) | Referências de efeitos sonoros |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Ferramentas de IA</h3>
+      Serviços online, assistentes e recursos para pesquisa e produtividade.<br>
+      <a href="./Melhores%20IAs%20%F0%9F%A4%96.md">Abrir coleção →</a>
+    </td>
+    <td width="50%">
+      <h3>🔎 Pesquisa e privacidade</h3>
+      Buscadores e serviços com recursos voltados à privacidade.<br>
+      <a href="./Pesquisa%20e%20privacidade.md">Abrir coleção →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Jogos e diversão</h3>
+      Jogos de navegador, experiências e links interessantes.<br>
+      <a href="./Sites%20divertidos%F0%9F%8E%AE.md">Abrir coleção →</a>
+    </td>
+    <td width="50%">
+      <h3>🔗 Scripts e atalhos</h3>
+      Bookmarklets, exemplos de JavaScript e personalizações.<br>
+      <a href="./Scripts%F0%9F%94%97.md">Abrir coleção →</a>
+    </td>
+  </tr>
+</table>
 
-## ✨ Sobre o projeto
+## 🔊 Mais uma seção
 
-Este repositório reúne referências e experiências com ferramentas da web. Os conteúdos são organizados por tema para facilitar a consulta e podem ser atualizados conforme novos recursos forem encontrados.
+- [Guia de sons](./Sound%20botton%20guia%F0%9F%93%8B) — referências de efeitos sonoros e memes.
 
-## 📌 Observações
+## 🌟 Sobre
 
-- Alguns links podem deixar de funcionar ou mudar com o tempo.
-- Os recursos externos são mantidos por seus respectivos responsáveis.
-- Antes de usar um serviço, confira suas condições, políticas e requisitos.
+Este repositório funciona como um catálogo pessoal: reúne links, ferramentas e pequenos experimentos em um só lugar. A ideia é manter tudo fácil de encontrar, consultar e atualizar.
+
+## 📌 Avisos
+
+- Links externos podem mudar ou deixar de funcionar.
+- Ferramentas de terceiros têm seus próprios termos e políticas.
+- Confira os recursos antes de utilizá-los.
 
 ---
 
-<p align="center">
-  Feito por <strong>Lucca</strong> · Atualizado em 2026
-</p>
+<div align="center">
+
+**Feito por Lucca** · 2026
+
+<sub>Organizado com curiosidade e um pouco de código 💙</sub>
+
+</div>
