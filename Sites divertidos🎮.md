@@ -38,6 +38,29 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - https://homes.advantagehomeimprovements.com/
 - https://science.lincolneducationschools.org/
 
+## 🌐 TungTung
+
+- [casaskrater.cl](https://tungtriple.casaskrater.cl/)
+- [eminescusm.ro](https://tungtriple.eminescusm.ro/)
+- [grilli.cl](https://tungtriple.grilli.cl/)
+- [raps.net.au](https://tungtriple.raps.net.au/)
+
+## 📚 Studyhub
+
+- [casaskrater.cl](https://hub-with-study.casaskrater.cl/)
+- [eminescusm.ro](https://hub-with-study.eminescusm.ro/)
+- [grilli.cl](https://hub-with-study.grilli.cl/)
+- [raps.net.au](https://hub-with-study.raps.net.au/)
+- [webinfinite.com](https://hub-with-study.webinfinite.com/)
+
+## 🍓 Strawberri
+
+- [casaskrater.cl](https://yum.casaskrater.cl/)
+- [eminescusm.ro](https://yum.eminescusm.ro/)
+- [grilli.cl](https://yum.grilli.cl/)
+- [raps.net.au](https://yum.raps.net.au/)
+- [webinfinite.com](https://yum.webinfinite.com/)
+
 ---
 
 *Links externos podem mudar ou sair do ar. Confira cada página antes de utilizá-la.*
