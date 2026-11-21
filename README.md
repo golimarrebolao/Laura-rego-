@@ -1,46 +1,34 @@
-# Laura-rego-
+# 📚 Laura-rego-
 
-📘 **Projeto Educacional sobre Redes e Ferramentas da Web**
-
-Este repositório foi criado **exclusivamente para fins educacionais e de pesquisa**.  
-O objetivo é **estudar como funcionam conexões de rede, acessos a sites e ferramentas online**, de forma segura e ética.
-
----
-
-## ⚠️ Aviso Importante
-
-Todo o conteúdo aqui presente — incluindo listas de sites, scripts e referências — tem **finalidade didática**.  
-**Nenhum material deve ser usado para burlar, invadir, modificar ou contornar sistemas de segurança**, seja em redes escolares, corporativas ou pessoais.
-
-O autor **não incentiva nem se responsabiliza** por qualquer uso indevido das informações contidas neste repositório.
+<p align="center">
+  <strong>Uma coleção pessoal de recursos digitais</strong><br>
+  Links úteis, ferramentas online, jogos e pequenos scripts organizados em um só lugar.
+</p>
 
 ---
 
-## 📚 Propósito
+## 🧭 Navegação
 
-- Aprender sobre funcionamento básico de **redes e conexões HTTPS**
-- Explorar **ferramentas educacionais e de aprendizado online**
-- Organizar **materiais de estudo** sobre navegação segura e tecnologias da web
+| Seção | Conteúdo |
+|---|---|
+| 🤖 [Ferramentas de IA](./Melhores%20IAs%20%F0%9F%A4%96.md) | Serviços e assistentes online |
+| 🔎 [Pesquisa e privacidade](./Pesquisa%20e%20privacidade.md) | Buscadores e recursos voltados à privacidade |
+| 🎮 [Jogos e diversão](./Sites%20divertidos%F0%9F%8E%AE.md) | Jogos, experiências e sites interativos |
+| 🔗 [Scripts e atalhos](./Scripts%F0%9F%94%97.md) | Bookmarklets e exemplos de JavaScript |
+| 🔊 [Guia de sons](./Sound%20botton%20guia%F0%9F%93%8B) | Referências de efeitos sonoros |
 
----
+## ✨ Sobre o projeto
 
-## 🧠 Estrutura
+Este repositório reúne referências e experiências com ferramentas da web. Os conteúdos são organizados por tema para facilitar a consulta e podem ser atualizados conforme novos recursos forem encontrados.
 
-| Pasta / Arquivo | Função |
-|------------------|--------|
-| `Melhores IAs.md` | Lista de inteligências artificiais para estudo e aprendizado |
-| `Proxys.md` | Referências sobre conexões e servidores proxy (uso teórico / educativo) |
-| `Scripts.md` | Exemplos de códigos para aprendizado de automação |
-| `Sites divertidos.md` | Sites educativos e interativos para explorar |
+## 📌 Observações
 
----
-
-## 🪪 Licença
-
-Este repositório é distribuído sob a licença **MIT**, permitindo uso livre **somente com propósitos educacionais**.
+- Alguns links podem deixar de funcionar ou mudar com o tempo.
+- Os recursos externos são mantidos por seus respectivos responsáveis.
+- Antes de usar um serviço, confira suas condições, políticas e requisitos.
 
 ---
 
-📩 **Contato**
-Caso tenha dúvidas ou sugestões de estudo, sinta-se à vontade para abrir uma *issue* ou enviar uma mensagem educativa.
-
+<p align="center">
+  Feito por <strong>Lucca</strong> · Atualizado em 2026
+</p>
