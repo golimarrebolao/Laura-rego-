@@ -35,3 +35,6 @@
 * Por enquanto são esses sites — se você descobrir mais, coloca aqui que eu organizo também.
 * Use com cautela; não posso ajudar a dar instruções para **burlar regras da escola** ou realizar ações que possam causar problemas.
 
+## Area dos não testado
+
+
