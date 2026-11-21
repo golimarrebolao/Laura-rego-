@@ -177,14 +177,13 @@ Endereços agrupados sob o nome **SolaraOS**:
 
 ---
 
-## 🧭 Como encontrar e adicionar links
+## 🧭 Como escolher e abrir um link
 
-1. Use os títulos das seções para localizar o nome desejado.
-2. Clique em um endereço para abrir o recurso.
-3. Se um endereço não abrir, tente outro endereço da mesma seção.
-4. Para adicionar um endereço, procure primeiro se ele já existe.
-5. Coloque-o na seção correspondente e mantenha o nome do grupo.
-6. Acrescente uma descrição apenas quando souber o que o recurso faz. Não deduza a finalidade apenas pelo domínio.
+1. Procure o nome do jogo ou projeto nos títulos.
+2. Leia a descrição para confirmar que encontrou o item certo.
+3. Clique no endereço para abrir o site.
+4. Se não carregar, tente outro endereço listado na mesma seção.
+5. Se o site pedir dados pessoais, downloads ou permissões inesperadas, pare e confira se confia nele antes de continuar.
 
 ## ⚠️ Avisos
 
