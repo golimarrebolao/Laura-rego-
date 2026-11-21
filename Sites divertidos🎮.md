@@ -47,6 +47,8 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [ilovetungy.govt.hu](https://ilovetungy.govt.hu/)
 - [imsoootuff.govt.hu](https://imsoootuff.govt.hu/)
 - [ouushiitung.govt.hu](https://ouushiitung.govt.hu/)
+- [s3.amazonaws.com](https://s3.amazonaws.com/thinkbabyy/index.html)
+- [thinkbabyy.s3.amazonaws.com](https://thinkbabyy.s3.amazonaws.com/index.html)
 
 ## 📚 Studyhub
 
@@ -55,6 +57,9 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [grilli.cl](https://hub-with-study.grilli.cl/)
 - [raps.net.au](https://hub-with-study.raps.net.au/)
 - [webinfinite.com](https://hub-with-study.webinfinite.com/)
+- [s3.amazonaws.com](https://s3.amazonaws.com/notehaven/index.html)
+- [notehaven.s3.us-east-1.amazonaws.com](https://notehaven.s3.us-east-1.amazonaws.com/index.html)
+- [notehaven.s3.amazonaws.com](https://notehaven.s3.amazonaws.com/index.html)
 
 ## 🍓 Strawberri
 
@@ -63,6 +68,8 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [grilli.cl](https://yum.grilli.cl/)
 - [raps.net.au](https://yum.raps.net.au/)
 - [webinfinite.com](https://yum.webinfinite.com/)
+- [strawbloom.s3.amazonaws.com](https://strawbloom.s3.amazonaws.com/index.svg)
+- [s3.amazonaws.com](https://s3.amazonaws.com/strawbloom/index.html)
 
 ## 🏎️ Light Speed
 
@@ -88,6 +95,71 @@ Links adicionais para conferir; a disponibilidade pode variar:
 - [unbendingwill.ru](https://ouushii.unbendingwill.ru/)
 - [unkleho.com](https://ouushii.unkleho.com/)
 - [zephirtechnik.com](https://ouushii.zephirtechnik.com/)
+
+## Sumi
+
+- [quillstudy.s3.amazonaws.com](https://quillstudy.s3.amazonaws.com/index.html)
+- [s3.amazonaws.com](https://s3.amazonaws.com/quillstudy/index.html)
+- [sumimath.s3.us-east-1.amazonaws.com](https://sumimath.s3.us-east-1.amazonaws.com/index.html)
+- [sumimath.s3.amazonaws.com](https://sumimath.s3.amazonaws.com/index.html)
+
+## Rook
+
+- [aibabyy.s3-external-1.amazonaws.com](https://aibabyy.s3-external-1.amazonaws.com/index.svg)
+- [s3.amazonaws.com](https://s3.amazonaws.com/aibabyy/index.html)
+
+## Kite
+
+- [notewell.us-lax-4.linodeobjects.com](https://notewell.us-lax-4.linodeobjects.com/index.html)
+- [studyloft.us-lax-4.linodeobjects.com](https://studyloft.us-lax-4.linodeobjects.com/index.html)
+
+## Interstellar
+
+- [cedarloft.us-lax-4.linodeobjects.com](https://cedarloft.us-lax-4.linodeobjects.com/index.html)
+- [oakprep.us-lax-4.linodeobjects.com](https://oakprep.us-lax-4.linodeobjects.com/index.html)
+
+## DogeUb
+
+- [learnhive.us-lax-4.linodeobjects.com](https://learnhive.us-lax-4.linodeobjects.com/index.html)
+- [us-lax-4.linodeobjects.com](https://us-lax-4.linodeobjects.com/studygate/index.html)
+
+## Achroma
+
+- [aokjezxu6bq.map.azionedge.net](https://aokjezxu6bq.map.azionedge.net)
+- [2rimjouwuyw.map.azionedge.net](https://2rimjouwuyw.map.azionedge.net)
+
+## Astral
+
+- [psatprep.s3.amazonaws.com](https://psatprep.s3.amazonaws.com/index.html)
+- [s3.amazonaws.com](https://s3.amazonaws.com/psatprep/index.html)
+
+## Refract
+
+- [d65ntvxoot46b.cloudfront.net](https://d65ntvxoot46b.cloudfront.net)
+- [dolx69675hbws.cloudfront.net](https://dolx69675hbws.cloudfront.net)
+
+## Glim
+
+- [s3.amazonaws.com](https://s3.amazonaws.com/deskloft/index.html)
+- [s3.us-east-1.amazonaws.com](https://s3.us-east-1.amazonaws.com/deskloft/index.html)
+- [s3-external-1.amazonaws.com](https://s3-external-1.amazonaws.com/deskloft/index.html)
+
+## Onyx
+
+- [s3.amazonaws.com](https://s3.amazonaws.com/onyxstudy/index.html)
+- [onyxstudy.s3.amazonaws.com](https://onyxstudy.s3.amazonaws.com/index.html)
+- [s3.us-east-1.amazonaws.com](https://s3.us-east-1.amazonaws.com/onyxstudy/index.html)
+
+## Lunar
+
+- [s3.us-east-1.amazonaws.com](https://s3.us-east-1.amazonaws.com/fernprep/index.html)
+- [fernprep.s3.amazonaws.com](https://fernprep.s3.amazonaws.com/index.html)
+- [fernprep.s3.us-east-1.amazonaws.com](https://fernprep.s3.us-east-1.amazonaws.com/index.html)
+
+## SolaraOS
+
+- [s3.amazonaws.com](https://s3.amazonaws.com/quizharbor/index.svg)
+- [s3.us-east-1.amazonaws.com](https://s3.us-east-1.amazonaws.com/quizharbor/index.svg)
 
 ---
 
