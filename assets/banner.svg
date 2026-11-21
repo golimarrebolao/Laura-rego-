@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Laura-rego — coleção de recursos digitais</title>
+  <desc id="desc">Banner abstrato em azul e roxo com cartões flutuantes representando ferramentas, jogos e código.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10172a"/>
+      <stop offset=".55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="950" cy="70" r="110" fill="#6366f1" opacity=".28" filter="url(#blur)"/>
+  <circle cx="1040" cy="300" r="100" fill="#38bdf8" opacity=".22" filter="url(#blur)"/>
+  <g opacity=".12" stroke="#c7d2fe">
+    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200"/>
+    <path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/>
+  </g>
+  <g transform="translate(770 60)">
+    <rect x="20" y="22" width="250" height="180" rx="22" fill="#0b1225" opacity=".55" transform="rotate(8 145 112)"/>
+    <rect x="10" y="10" width="250" height="180" rx="22" fill="#1e293b" stroke="#64748b" stroke-opacity=".55" transform="rotate(-5 135 100)"/>
+    <rect x="0" y="0" width="250" height="180" rx="22" fill="#0f172a" stroke="#93c5fd" stroke-opacity=".6"/>
+    <circle cx="24" cy="22" r="5" fill="#fb7185"/><circle cx="42" cy="22" r="5" fill="#fbbf24"/><circle cx="60" cy="22" r="5" fill="#4ade80"/>
+    <path d="M32 68l-18 20 18 20M74 68l18 20-18 20M60 60L46 116" fill="none" stroke="url(#glow)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="126" y="64" width="88" height="12" rx="6" fill="#64748b"/>
+    <rect x="126" y="88" width="65" height="12" rx="6" fill="#475569"/>
+    <rect x="126" y="112" width="78" height="12" rx="6" fill="#475569"/>
+    <rect x="126" y="136" width="50" height="12" rx="6" fill="#475569"/>
+  </g>
+  <g transform="translate(920 245)">
+    <rect width="76" height="54" rx="14" fill="#1d4ed8" stroke="#93c5fd" stroke-opacity=".6"/>
+    <path d="M20 17h36v20H20z" fill="none" stroke="#dbeafe" stroke-width="3" rx="4"/>
+    <path d="M27 24h22M27 30h15" stroke="#dbeafe" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1080 95)">
+    <circle cx="32" cy="32" r="32" fill="#7c3aed" opacity=".9"/>
+    <path d="M20 38l12-22 12 22M25 31h14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="76" y="142" fill="#bfdbfe" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="5">COLEÇÃO DIGITAL</text>
+  <text x="72" y="213" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800">Laura-rego</text>
+  <text x="77" y="258" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="22">Ferramentas · Jogos · Scripts · Descobertas</text>
+  <rect x="77" y="291" width="150" height="5" rx="2.5" fill="url(#glow)"/>
+</svg>
